@@ -1,2 +1,4 @@
 What hapens when you initialize a repository? Why do you need to do it
 .git folder is created in the initialized repository to keep track of our files, we need to initialize to state that the directory is managed by VCS
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area allows us to choose which file we want to make commits to. Sometime not all files in the working repository should be committed.
