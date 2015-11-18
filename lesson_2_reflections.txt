@@ -1,0 +1,2 @@
+What hapens when you initialize a repository? Why do you need to do it
+.git folder is created in the initialized repository to keep track of our files, we need to initialize to state that the directory is managed by VCS
