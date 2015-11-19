@@ -1,4 +1,4 @@
-What hapens when you initialize a repository? Why do you need to do it
+What happens when you initialize a repository? Why do you need to do it
 .git folder is created in the initialized repository to keep track of our files, we need to initialize to state that the directory is managed by VCS
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area allows us to choose which file we want to make commits to. Sometime not all files in the working repository should be committed.
@@ -8,4 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 When we want to add new features without affecting the core (master) code
 How do diagrams help you visualize the branch structure?
 Diagrams help us know that which commits are the parent of which
-...
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together is a commit that contain the sourecode in two different branch commits, We represent it in the diagram as a tree-like structure
